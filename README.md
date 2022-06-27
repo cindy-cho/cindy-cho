@@ -5,6 +5,3 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></h3>
 <br/>
 
-| <a href="https://github.com/cindy-cho"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cindy-cho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ryuflower)](https://solved.ac/ryuflower) |
-| ------------- | ------------- |
-| <a href="https://github.com/cindy-cho"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindy-cho&layout=compact&theme=buefy&hide_border=true" /></a> | [![CodeForces Profile](https://cf.leed.at?id=ryuflower)](https://codeforces.com/profile/ryuflower) |
